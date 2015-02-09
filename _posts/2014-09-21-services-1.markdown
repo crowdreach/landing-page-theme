@@ -1,12 +1,9 @@
 ---
 layout: default
-img: ipad.png
+img: cycle.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Making ideas a reality
 description: |
-  <p class="lead">A special thanks to <a target="_blank"
-  href="http://join.deathtothestockphoto.com/">Death to the Stock
-  Photo</a> for providing the photographs that you see in this template.
-  Visit their website to become a member!</p>
+  <p class="lead">CrowdReach help to change this by offering our experienced team who work closely with entrepreneurs to crowdfund their products and ideas, with the aim to make these innovations a reality. </p>
 
 ---
